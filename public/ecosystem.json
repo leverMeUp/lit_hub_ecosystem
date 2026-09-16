@@ -1170,6 +1170,25 @@
       "official": false
     },
     {
+      "slug": "perpetuals-wtf",
+      "name": "Perpetuals.WTF",
+      "description": "Launch tokens with built-in perpetual strategies.",
+      "url": "https://www.perpetuals.wtf/",
+      "twitter": "https://x.com/PerpetualsWTF",
+      "discord": "",
+      "telegram": "",
+      "logo": "/logos/perpetuals-wtf_logo.png",
+      "categories": [
+        "Apps"
+      ],
+      "status": "Live",
+      "createdAt": "2026-09-11",
+      "official": false,
+      "builderDiscords": [
+        "0xtax"
+      ]
+    },
+    {
       "slug": "prism-bot",
       "name": "Prism bot",
       "description": "Track traders, funding rates, new listings, and milestones.",
@@ -1603,5 +1622,5 @@
       "official": false
     }
   ],
-  "generatedAt": "2026-09-16T15:40:18.077Z"
+  "generatedAt": "2026-09-16T18:09:06.013Z"
 }
